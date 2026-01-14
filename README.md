@@ -48,6 +48,7 @@ Students on campus possess a wide range of valuable skills, yet there is no stru
 * Credits are adjusted
 ### Architecture Diagram:
 <img width="1028" height="553" alt="image" src="https://github.com/user-attachments/assets/150422f3-6d5a-415e-9488-37b62da5b4ca" />
+
 ### Conclusion:
 Our platform uniquely enables time‑aware, peer‑to‑peer skill exchange, where students both teach and learn using a credit‑based system—making learning collaborative, flexible, and accessible.
 
