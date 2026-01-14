@@ -1,5 +1,5 @@
 # EduXchange_College-Skill-Exchange-Platform
-## Where learning becomes collaboration !!!
+## _Where learning becomes collaboration_ !!!
 ### Short Introduction
 A campus-centric Skill Exchange Platform that enables students to list the skills they can teach, specify the skills they want to learn, and share their available time slots. Using intelligent peer matching, this platform connects learners with suitable peers(mentors) from within the campus. The core idea is to build a collaborative learning ecosystem where every student is both a learner and a mentor, where credits will be earned for teaching and using those credits students can learn other desired courses from their peers promoting accessible learning, peer collaboration, and optimal use of campus skills.
 
